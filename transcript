@@ -1,0 +1,26 @@
+# Compile of bulb_controller.v was successful.
+# Compile of bulb_controller_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bulb_controller_tb
+# vsim -gui work.bulb_controller_tb 
+# Start time: 11:43:09 on Nov 16,2023
+# Loading work.bulb_controller_tb
+# Loading work.bulb_controller
+add wave -position insertpoint sim:/bulb_controller_tb/*
+run -all
+# S=1,S1=1,S2=0,B1=1,B2=0,B3=0
+# S=1,S1=0,S2=1,B1=0,B2=1,B3=0
+# S=1,S1=0,S2=0,B1=0,B2=0,B3=1
+# S=0,S1=1,S2=0,B1=0,B2=0,B3=0
+# S=0,S1=1,S2=1,B1=0,B2=0,B3=0
+# S=0,S1=0,S2=1,B1=0,B2=0,B3=0
+# S=0,S1=0,S2=0,B1=0,B2=0,B3=0
+# S=1,S1=1,S2=0,B1=1,B2=0,B3=0
+# S=1,S1=0,S2=1,B1=0,B2=1,B3=0
+# S=1,S1=1,S2=1,B1=0,B2=0,B3=1
+# ** Note: $finish    : D:/BULB_TEST/bulb_controller_tb.v(78)
+#    Time: 100 ps  Iteration: 0  Instance: /bulb_controller_tb
+# 1
+# Break in Module bulb_controller_tb at D:/BULB_TEST/bulb_controller_tb.v line 78
+# End time: 12:08:00 on Nov 16,2023, Elapsed time: 0:24:51
+# Errors: 0, Warnings: 2

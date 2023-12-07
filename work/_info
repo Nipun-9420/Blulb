@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vbulb_controller
+!s110 1700115176
+!i10b 1
+!s100 ImPaaFdFA`Y4?^FkPce5?3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6DTQ9US=22BmXc_SQG6gf2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/BULB_TEST
+w1700113072
+8D:/BULB_TEST/bulb_controller.v
+FD:/BULB_TEST/bulb_controller.v
+!i122 14
+L0 1 41
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1700115176.000000
+!s107 D:/BULB_TEST/bulb_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BULB_TEST/bulb_controller.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbulb_controller_tb
+!s110 1700115177
+!i10b 1
+!s100 zVM9^VYM4<>KGeG@d3QC40
+R0
+IRZPC:LZQ2[SZhYcIK1SbI2
+R1
+R2
+w1700115146
+8D:/BULB_TEST/bulb_controller_tb.v
+FD:/BULB_TEST/bulb_controller_tb.v
+!i122 15
+L0 4 77
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BULB_TEST/bulb_controller_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BULB_TEST/bulb_controller_tb.v|
+!i113 1
+R5
+R6

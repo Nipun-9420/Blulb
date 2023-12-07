@@ -1,0 +1,15 @@
+D:/BULB_TEST/bulb_controller.v {1 {vlog -work work -stats=none D:/BULB_TEST/bulb_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bulb_controller
+
+Top level modules:
+	bulb_controller
+
+} {} {}} D:/BULB_TEST/bulb_controller_tb.v {1 {vlog -work work -stats=none D:/BULB_TEST/bulb_controller_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bulb_controller_tb
+
+Top level modules:
+	bulb_controller_tb
+
+} {} {}}
