@@ -10,7 +10,7 @@ module bulb_controller_tb;
   bulb_controller DUT (
     .S(S),
     .S1(S1),
-    .S2(S2),
+    .S2(S2), 
     .B1(B1),
     .B2(B2),
     .B3(B3)
